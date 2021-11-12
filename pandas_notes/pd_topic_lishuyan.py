@@ -14,6 +14,9 @@
 #     name: python3
 # ---
 
+# # Name: Li Shuyan
+# # UMID: 63161545
+
 # # Question 0 - Topics in Pandas [25 points]
 
 # For this question, please pick a topic - such as a function, class, method, recipe or idiom related to the pandas python library and create a short tutorial or overview of that topic. 
